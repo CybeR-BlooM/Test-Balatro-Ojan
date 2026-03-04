@@ -21,9 +21,21 @@
     <ClCompile Include="Card.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DeckCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RunSession.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Card.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DeckCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RunSession.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

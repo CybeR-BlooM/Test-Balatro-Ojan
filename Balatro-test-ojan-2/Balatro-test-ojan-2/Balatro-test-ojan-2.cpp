@@ -2,21 +2,14 @@
 //
 
 #include <iostream>
-#include "Card.h" // Jangan lupa panggil header Card yang sudah kita buat
+#include "RunSession.h"
 
 int main() {
-    // 1. Kita coba buat satu kartu: As Sekop (Ace of Spades)
-    Card myCard(Rank::Ace, Suit::Spades);
+    RunSession game;
+    game.startGameLoop(); // Memulai kerangka utama game
 
-    // 2. Kita coba buat kartu lain: 8 Hati (Eight of Hearts)
-    Card anotherCard(Rank::Eight, Suit::Hearts);
-
-    // 3. Print ke layar untuk testing
-    std::cout << "Kartu pertama saya: " << myCard.toString() << "\n";
-    std::cout << "Kartu kedua saya: " << anotherCard.toString() << "\n";
-
-    // Menahan layar console agar tidak langsung tertutup (khusus Windows)
-    system("pause");
+    std::cout << "\n";
+    system("pause"); // Menahan layar console
     return 0;
 }
 

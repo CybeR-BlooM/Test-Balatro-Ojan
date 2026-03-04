@@ -126,9 +126,13 @@
   <ItemGroup>
     <ClCompile Include="Balatro-test-ojan-2.cpp" />
     <ClCompile Include="Card.cpp" />
+    <ClCompile Include="DeckCard.cpp" />
+    <ClCompile Include="RunSession.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Card.h" />
+    <ClInclude Include="DeckCard.h" />
+    <ClInclude Include="RunSession.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
