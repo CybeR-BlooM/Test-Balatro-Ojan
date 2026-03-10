@@ -38,64 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RunSession.h",
-              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.h",
-              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\RunSession.h",
-              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.h",
-              "RelativeToolTip": "Balatro-test-ojan-2\\RunSession.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-04T04:50:45.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RunSession.cpp",
-              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.cpp",
-              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\RunSession.cpp",
-              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.cpp",
-              "RelativeToolTip": "Balatro-test-ojan-2\\RunSession.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-04T04:50:29.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DeckCard.cpp",
-              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\DeckCard.cpp",
-              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\DeckCard.cpp",
-              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\DeckCard.cpp",
-              "RelativeToolTip": "Balatro-test-ojan-2\\DeckCard.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-04T04:49:58.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DeckCard.h",
-              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\DeckCard.h",
-              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\DeckCard.h",
-              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\DeckCard.h",
-              "RelativeToolTip": "Balatro-test-ojan-2\\DeckCard.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-04T04:49:33.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -108,6 +52,58 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-24T04:32:19.074Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RunSession.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.h",
+              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\RunSession.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.h",
+              "RelativeToolTip": "Balatro-test-ojan-2\\RunSession.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T04:50:45.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RunSession.cpp",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.cpp",
+              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\RunSession.cpp",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.cpp",
+              "RelativeToolTip": "Balatro-test-ojan-2\\RunSession.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T04:50:29.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeckCard.cpp",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\DeckCard.cpp",
+              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\DeckCard.cpp",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\DeckCard.cpp",
+              "RelativeToolTip": "Balatro-test-ojan-2\\DeckCard.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T04:49:58.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeckCard.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\DeckCard.h",
+              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\DeckCard.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\DeckCard.h",
+              "RelativeToolTip": "Balatro-test-ojan-2\\DeckCard.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T04:49:33.196Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "Balatro-test-ojan-2\\Card.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-24T04:34:49.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T04:34:49.359Z"
             }
           ]
         }

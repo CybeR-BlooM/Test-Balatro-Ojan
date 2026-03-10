@@ -27,6 +27,9 @@
     <ClCompile Include="RunSession.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ScoringStrategy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Card.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="RunSession.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoringStrategy.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
