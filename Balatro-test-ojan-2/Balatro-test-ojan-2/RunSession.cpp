@@ -31,16 +31,47 @@ void RunSession::startGameLoop() {
 void RunSession::playHandPhase() {
     std::cout << "[Fase 1] Membagikan 5 kartu ke pemain...\n";
     playerHand = currentDeck.draw(5); // Ambil 5 kartu dari deck
+    playedCards.clear();              // Bersihkan meja dari kartu ronde sebelumnya
 
     std::cout << "Kartu di tangan:\n";
-    for (const auto& card : playerHand) {
-        std::cout << "  -> " << card.toString() << "\n";
+    for (size_t i = 0; i < playerHand.size(); ++i) {
+        // Menampilkan nomor [1] sampai [5] di depan kartu agar pemain bisa memilih
+        std::cout << "  [" << i + 1 << "] " << playerHand[i].toString() << "\n";
     }
+
+    // --- BAGIAN INTERAKTIF PEMILIHAN KARTU ---
+    std::cout << "\nPilih kartu yang ingin dimainkan!\n";
+    std::cout << "Ketik nomor kartu (pisahkan dengan spasi), lalu ketik 0 jika sudah selesai memilih.\n";
+    std::cout << "Contoh ketik: 1 3 4 0 (Lalu tekan Enter)\n";
+    std::cout << "Pilihanmu: ";
+
+    int choice;
+    // std::cin akan terus membaca angka yang diketik sampai kamu mengetik angka 0
+    while (std::cin >> choice && choice != 0) {
+        // Validasi agar pilihan tidak keluar dari batas kartu (1 sampai 5)
+        if (choice > 0 && choice <= playerHand.size()) {
+            playedCards.push_back(playerHand[choice - 1]);
+        }
+        else {
+            std::cout << "Nomor " << choice << " tidak valid, diabaikan.\n";
+        }
+    }
+
+    std::cout << "\nKamu memainkan " << playedCards.size() << " kartu ke meja.\n";
 }
 
 void RunSession::computeScorePhase() {
-    // Ini akan kita kerjakan di Commit 2
-    std::cout << "[Fase 2] Menghitung Skor... (Sistem Skor akan dibuat di commit selanjutnya)\n";
+    std::cout << "[Fase 2] Menghitung Skor...\n";
+
+    // Cek jika pemain tiba-tiba mengetik 0 tanpa memilih kartu apa pun
+    if (playedCards.empty()) {
+        std::cout << "Tidak ada kartu yang dimainkan. Skor: 0\n";
+        return;
+    }
+
+    // Memanggil ScoringSystem untuk menilai kombinasi kartu di meja
+    int score = scorer.evaluateHand(playedCards);
+    std::cout << "============== SKOR RONDE INI: " << score << " ==============\n";
 }
 
 void RunSession::shopPhase() {

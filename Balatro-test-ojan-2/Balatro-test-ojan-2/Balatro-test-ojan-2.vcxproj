@@ -129,12 +129,14 @@
     <ClCompile Include="DeckCard.cpp" />
     <ClCompile Include="RunSession.cpp" />
     <ClCompile Include="ScoringStrategy.cpp" />
+    <ClCompile Include="ScoringSystem.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Card.h" />
     <ClInclude Include="DeckCard.h" />
     <ClInclude Include="RunSession.h" />
     <ClInclude Include="ScoringStrategy.h" />
+    <ClInclude Include="ScoringSystem.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

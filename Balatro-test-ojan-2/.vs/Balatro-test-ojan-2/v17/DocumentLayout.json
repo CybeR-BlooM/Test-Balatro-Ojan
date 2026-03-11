@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\ScoringStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|solutionrelative:Balatro-test-ojan-2\\ScoringStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\DeckCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|solutionrelative:Balatro-test-ojan-2\\DeckCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\ScoringStrategy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|solutionrelative:Balatro-test-ojan-2\\ScoringStrategy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|solutionrelative:Balatro-test-ojan-2\\RunSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\ScoringStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|solutionrelative:Balatro-test-ojan-2\\ScoringStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\Balatro-test-ojan-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|solutionrelative:Balatro-test-ojan-2\\Balatro-test-ojan-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|solutionrelative:Balatro-test-ojan-2\\RunSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\DeckCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|solutionrelative:Balatro-test-ojan-2\\DeckCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|solutionrelative:Balatro-test-ojan-2\\RunSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\ScoringSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|solutionrelative:Balatro-test-ojan-2\\ScoringSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\ScoringSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|solutionrelative:Balatro-test-ojan-2\\ScoringSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -33,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\DeckCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|solutionrelative:Balatro-test-ojan-2\\DeckCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\Balatro-test-ojan-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{98C111A1-80B1-45D5-8F54-B0ACE9563B5B}|Balatro-test-ojan-2\\Balatro-test-ojan-2.vcxproj|solutionrelative:Balatro-test-ojan-2\\Balatro-test-ojan-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,15 +54,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RunSession.cpp",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.cpp",
+              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\RunSession.cpp",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.cpp",
+              "RelativeToolTip": "Balatro-test-ojan-2\\RunSession.cpp",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T04:50:29.541Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "RunSession.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.h",
+              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\RunSession.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.h",
+              "RelativeToolTip": "Balatro-test-ojan-2\\RunSession.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T04:50:45.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Balatro-test-ojan-2.cpp",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\Balatro-test-ojan-2.cpp",
+              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\Balatro-test-ojan-2.cpp",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\Balatro-test-ojan-2.cpp",
+              "RelativeToolTip": "Balatro-test-ojan-2\\Balatro-test-ojan-2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-24T04:32:19.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ScoringStrategy.cpp",
               "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\ScoringStrategy.cpp",
               "RelativeDocumentMoniker": "Balatro-test-ojan-2\\ScoringStrategy.cpp",
@@ -80,46 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RunSession.cpp",
-              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.cpp",
-              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\RunSession.cpp",
-              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.cpp",
-              "RelativeToolTip": "Balatro-test-ojan-2\\RunSession.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-04T04:50:29.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Balatro-test-ojan-2.cpp",
-              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\Balatro-test-ojan-2.cpp",
-              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\Balatro-test-ojan-2.cpp",
-              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\Balatro-test-ojan-2.cpp",
-              "RelativeToolTip": "Balatro-test-ojan-2\\Balatro-test-ojan-2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-24T04:32:19.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RunSession.h",
-              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.h",
-              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\RunSession.h",
-              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\RunSession.h",
-              "RelativeToolTip": "Balatro-test-ojan-2\\RunSession.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-04T04:50:45.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "DeckCard.cpp",
               "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\DeckCard.cpp",
               "RelativeDocumentMoniker": "Balatro-test-ojan-2\\DeckCard.cpp",
@@ -133,6 +137,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ScoringSystem.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\ScoringSystem.h",
+              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\ScoringSystem.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\ScoringSystem.h",
+              "RelativeToolTip": "Balatro-test-ojan-2\\ScoringSystem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-10T23:43:12.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScoringSystem.cpp",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\ScoringSystem.cpp",
+              "RelativeDocumentMoniker": "Balatro-test-ojan-2\\ScoringSystem.cpp",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\ScoringSystem.cpp",
+              "RelativeToolTip": "Balatro-test-ojan-2\\ScoringSystem.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T23:44:28.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DeckCard.h",
               "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\DeckCard.h",
               "RelativeDocumentMoniker": "Balatro-test-ojan-2\\DeckCard.h",
@@ -140,12 +174,11 @@
               "RelativeToolTip": "Balatro-test-ojan-2\\DeckCard.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-04T04:49:33.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T04:49:33.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Card.cpp",
               "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\Card.cpp",
               "RelativeDocumentMoniker": "Balatro-test-ojan-2\\Card.cpp",
@@ -153,12 +186,11 @@
               "RelativeToolTip": "Balatro-test-ojan-2\\Card.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-24T04:35:15.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T04:35:15.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Card.h",
               "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\Test-Balatro-Ojan\\Balatro-test-ojan-2\\Balatro-test-ojan-2\\Card.h",
               "RelativeDocumentMoniker": "Balatro-test-ojan-2\\Card.h",
@@ -166,8 +198,7 @@
               "RelativeToolTip": "Balatro-test-ojan-2\\Card.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-24T04:34:49.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T04:34:49.359Z"
             }
           ]
         }
