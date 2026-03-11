@@ -134,6 +134,7 @@
   <ItemGroup>
     <ClInclude Include="Card.h" />
     <ClInclude Include="DeckCard.h" />
+    <ClInclude Include="IModifier.h" />
     <ClInclude Include="RunSession.h" />
     <ClInclude Include="ScoringStrategy.h" />
     <ClInclude Include="ScoringSystem.h" />

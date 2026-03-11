@@ -50,5 +50,8 @@
     <ClInclude Include="ScoringSystem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="IModifier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
