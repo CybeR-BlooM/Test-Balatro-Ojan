@@ -127,6 +127,7 @@
     <ClCompile Include="Balatro-test-ojan-2.cpp" />
     <ClCompile Include="Card.cpp" />
     <ClCompile Include="DeckCard.cpp" />
+    <ClCompile Include="ModifierFactory.cpp" />
     <ClCompile Include="Relic.cpp" />
     <ClCompile Include="RunSession.cpp" />
     <ClCompile Include="ScoringStrategy.cpp" />
@@ -136,6 +137,7 @@
     <ClInclude Include="Card.h" />
     <ClInclude Include="DeckCard.h" />
     <ClInclude Include="IModifier.h" />
+    <ClInclude Include="ModifierFactory.h" />
     <ClInclude Include="Relic.h" />
     <ClInclude Include="RunSession.h" />
     <ClInclude Include="ScoringStrategy.h" />
